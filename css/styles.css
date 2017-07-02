@@ -34,3 +34,20 @@ section{
 	padding-top: 60px;
 	padding-bottom: 30px;
 }
+
+.list{
+    margin: 0px;
+}
+
+.title-p{
+	font-size: 17;
+    font-weight: bold;
+}
+
+.title-s{
+
+}
+
+#presentations{
+	background-color:#EAEAEA;
+}
