@@ -7,6 +7,11 @@ h1 {
 	font-size: 70;
 }
 
+.page-title {
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
 .img-width {
 	width: 100%;
 }
@@ -30,11 +35,6 @@ section{
 	font-size: 25;
 }
 
-.page-title {
-	padding-top: 60px;
-	padding-bottom: 30px;
-}
-
 .list{
     margin: 0px;
 }
@@ -50,4 +50,10 @@ section{
 
 #presentations{
 	background-color:#EAEAEA;
+}
+
+#socialmedia{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #747578;
 }
