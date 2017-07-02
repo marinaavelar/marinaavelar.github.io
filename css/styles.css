@@ -1,0 +1,36 @@
+h1 {
+	color: #183642;
+}
+
+h1 {
+	font-family: "capriola", "courier new", serif;
+	font-size: 70;
+}
+
+.img-width {
+	width: 100%;
+}
+
+section{
+	padding-top:70px;
+	padding-bottom: 70px
+}
+
+.about{
+	background-color: lightgrey;
+}
+
+.subtitle{
+	font-family: "courier new";
+	font-size: 50;
+}
+
+.subsubtitle{
+	font-family: "courier new";
+	font-size: 25;
+}
+
+.page-title {
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
